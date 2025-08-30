@@ -1,7 +1,5 @@
 # Hiya! I'm Areeba  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-# Hiya! I'm Areeba ✨  
-
 ---
 
 ## 👩‍💻 About Me  
