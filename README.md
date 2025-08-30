@@ -1,12 +1,12 @@
 # Hiya! I'm Areeba  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+<br />
 ## 👩‍💻 About Me  
 💻 **Junior Frontend Developer** (React · Next.js · TypeScript)  
 🎮 Aspiring Game Developer  
 🌱 Forever learning, forever curious  
 ☕ Fueled by coffee & random ideas  
 🎨 Making the web a lil prettier, one pixel at a time  
-
+<br />
 ## 🚀 Skills  
 
 <p align="left">
