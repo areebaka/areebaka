@@ -1,13 +1,12 @@
 # Hiya! I'm Areeba  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<br />
-## 👩‍💻 About Me 
-<br />
+
+## 👩‍💻 About Me  
 💻 **Junior Frontend Developer** (React · Next.js · TypeScript)  
 🎮 Aspiring Game Developer  
 🌱 Forever learning, forever curious  
 ☕ Fueled by coffee & random ideas  
 🎨 Making the web a lil prettier, one pixel at a time  
-<br />
+
 ## 🚀 Skills  
 
 <p align="left">
@@ -39,4 +38,4 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Areeba%20Asad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
 [![GitHub Badge](https://img.shields.io/badge/-AreebaAsad-black?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
 
-
+see
