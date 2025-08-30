@@ -1,37 +1,49 @@
 # Hiya! I'm Areeba  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-💻 Junior Frontend Dev (React + Next.js + TS)  
-🎮 Game dev wannabe 
+# Hiya! I'm Areeba ✨  
+
+---
+
+## 👩‍💻 About Me  
+💻 **Junior Frontend Developer** (React · Next.js · TypeScript)  
+🎮 Aspiring Game Developer  
 🌱 Forever learning, forever curious  
+☕ Fueled by coffee & random ideas  
+🎨 Making the web a lil prettier, one pixel at a time  
 
-☕ Powered by coffee & random ideas  
-🎨 Making the web a lil prettier one pixel at a time  
+---
 
-📫 Say hi: areebaasad07@gmail.com
-
-### 🚀 Skills
+## 🚀 Skills  
 
 <p align="left">
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   
   <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   
   <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40"/>
   
   <!-- Redux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
   
   <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   
-  <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <!-- Express (white wordmark for dark mode) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 </p>
+
+---
+
+## 📫 Say Hi  
+
+[![Gmail Badge](https://img.shields.io/badge/-areebaasad07@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:areebaasad07@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Areeba%20Asad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+[![GitHub Badge](https://img.shields.io/badge/-AreebaAsad-black?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
 
 
