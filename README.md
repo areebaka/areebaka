@@ -1,4 +1,5 @@
-# Hiya! I'm Areeba ✨  
+# Hiya! I'm Areeba  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 
 💻 Junior Frontend Dev (React + Next.js + TS)  
 🎮 Game dev wannabe 
