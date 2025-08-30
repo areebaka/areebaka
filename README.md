@@ -35,5 +35,5 @@
 ## 📫 Say Hi  
 
 [<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40">](mailto:areebaasad07@gmail.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/your-link/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/areeba-asad-085446225/)
 
