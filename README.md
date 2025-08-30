@@ -32,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-
-
 ## 📫 Say Hi  
 
 [![Gmail Badge](https://img.shields.io/badge/-areebaasad07@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:areebaasad07@gmail.com)  
