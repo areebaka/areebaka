@@ -34,18 +34,17 @@
 
 <p align="left">
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=areebaka&show_icons=true&theme=radical" 
+    alt="Areeba's GitHub stats" 
+    height="180"
+  />
+  
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebaka&layout=compact&theme=radical" 
     alt="Top Languages" 
     height="180"
   />
 </p>
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areebaka&theme=radical&hide_border=true" alt="Contribution Graph" />
-</p>
-
 
 ## 📫 Say Hi  
 
