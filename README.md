@@ -30,6 +30,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 </p>
 
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=areebaka&show_icons=true&theme=radical" 
+    alt="Areeba's GitHub stats" 
+    height="180"
+  />
+  
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebaka&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="180"
+  />
+</p>
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areebaka&theme=radical&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
 ## 📫 Say Hi  
 
 [<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40">](mailto:areebaasad07@gmail.com)
