@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills  
 
-<p align="left" direction="row">
+<p style="display: flex; flex-direction: row; align-items: center; gap: 8px;">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   
