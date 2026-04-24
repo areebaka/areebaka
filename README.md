@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills  
 
-<p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   
@@ -38,7 +38,7 @@
 
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-</p>
+</div>
 
 
 
