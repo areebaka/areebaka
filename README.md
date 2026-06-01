@@ -1,8 +1,8 @@
 # Hiya! I'm Areeba <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-💻 **Frontend Developer → Exploring Backend**  
+💻 **Full Stack Engineer**  
 ⚛️ React · Next.js · TypeScript  
-🐍 Python · Django (currently learning)  
+🐍 Python · Django   
 🎨 Making the web a lil prettier, one pixel at a time  
 🎮 Game dev wannabe  
 🌱 Forever learning, forever curious  
