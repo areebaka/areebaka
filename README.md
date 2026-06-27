@@ -9,15 +9,15 @@
 
 
 ## 🌷 About Me
+Software engineer from Karachi, Pakistan 🇵🇰
 
-I'm a software engineer from Karachi, Pakistan 🇵🇰 with a strong focus on product engineering.
+I like building products, solving problems, and occasionally fighting bugs that somehow only exist in production.
 
-- 💻 Currently working as a **Frontend Developer**
-- ⚛️ Main stack: **React, Next.js, TypeScript**
-- 🐍 Also comfortable with **Python + Django**
-- 🎮 Interested in **game development & interactive experiences**
-- 🌱 Always learning better architecture & engineering practices
-
+- 💻 Currently working as a Full-Stack Developer
+- ⚛️ Mostly living in React / Next.js / TypeScript
+- 🐍 Can also speak Python + Django
+- 🎮 Interested in game development & interactive systems
+- 🌱 Learning architecture, performance, and system design
 
 ## 🛠 Tech Stack
 
@@ -45,8 +45,12 @@ I'm a software engineer from Karachi, Pakistan 🇵🇰 with a strong focus on p
 </p>
 
 
-## 📫 Connect With Me
+## :mailbox: Say Hi
 
-- GitHub: github.com/areebaka
-- LinkedIn: (add yours)
-- Email: areebaasad07@gmail.com
+<a href="mailto:areebaasad07@gmail.com">
+  <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/areeba-asad-085446225/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
