@@ -1,6 +1,6 @@
 
 <h1 align="center">Hiya! I'm Areeba 👋</h1>
-<h3 align="center">Frontend-Leaning Full Stack Engineer • React / Next.js • Python • Django</h3>
+<h3 align="center">Frontend-Leaning Full Stack Engineer • React / Next.js • Python / Django</h3>
 
 <p align="center">
   Making the web a little prettier, one pixel at a time 🎨
