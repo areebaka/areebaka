@@ -49,6 +49,6 @@ I like building products, solving problems, and occasionally fighting bugs that 
   <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/areeba-asad-085446225/">
+<a href="https://www.linkedin.com/in/areebaasadullah/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
