@@ -1,18 +1,16 @@
 
 <h1 align="center">Hiya! I'm Areeba 👋</h1>
-<h3 align="center">Frontend-Focused Full Stack Engineer • React / Next.js • Product Engineering</h3>
+<h3 align="center">Frontend-Leaning Full Stack Engineer • React / Next.js • Python • Django</h3>
 
 <p align="center">
   Making the web a little prettier, one pixel at a time 🎨
 </p>
 
----
+
 
 ## 🌷 About Me
 
-I'm a software engineer from Karachi, Pakistan 🇵🇰 with a strong focus on frontend development and product engineering.
-
-I enjoy building polished, user-friendly experiences that feel intuitive, fast, and delightful to use.
+I'm a software engineer from Karachi, Pakistan 🇵🇰 with a strong focus on product engineering.
 
 - 💻 Currently working as a **Frontend Developer**
 - ⚛️ Main stack: **React, Next.js, TypeScript**
@@ -20,15 +18,6 @@ I enjoy building polished, user-friendly experiences that feel intuitive, fast, 
 - 🎮 Interested in **game development & interactive experiences**
 - 🌱 Always learning better architecture & engineering practices
 
----
-
-## 🚀 Currently Building
-
-- 🌍 **Citiuation** — Compare living costs across cities
-- 🏠 Marketplace product features at scale
-- 🎮 Small experimental game projects
-
----
 
 ## 🛠 Tech Stack
 
@@ -47,20 +36,6 @@ I enjoy building polished, user-friendly experiences that feel intuitive, fast, 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,firebase" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### Citiuation
-Compare cost of living across cities using visual and data-driven insights.
-
-### Truestimate
-Contributed to real-world product features with focus on usability and business impact.
-
-### Interactive Game Projects
-Experimenting with browser-based storytelling and gameplay.
-
----
 
 ## 📊 GitHub Stats
 
@@ -69,7 +44,6 @@ Experimenting with browser-based storytelling and gameplay.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebaka&layout=compact&hide_border=true" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
