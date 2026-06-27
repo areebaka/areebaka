@@ -31,7 +31,7 @@ I like building products, solving problems, and occasionally fighting bugs that 
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,argo,sentry,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,sentry,elasticsearch" />
 </p>
 
 
