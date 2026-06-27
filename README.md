@@ -9,8 +9,6 @@
 
 
 ## 🌷 About Me
-Software engineer from Karachi, Pakistan 🇵🇰
-
 I like building products, solving problems, and occasionally fighting bugs that somehow only exist in production.
 
 - 💻 Currently working as a Full-Stack Developer
