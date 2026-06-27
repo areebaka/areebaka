@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hiya! I'm Areeba 👋</h1>
 <h3 align="center">Frontend-Focused Full Stack Engineer • React / Next.js • Product Engineering</h3>
 
@@ -76,4 +76,3 @@ Experimenting with browser-based storytelling and gameplay.
 - GitHub: github.com/areebaka
 - LinkedIn: (add yours)
 - Email: areebaasad07@gmail.com
-```
